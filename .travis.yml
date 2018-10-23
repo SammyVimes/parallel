@@ -4,3 +4,4 @@ jdk:
 script:
   mvn package
   java -jar target/parallel-0.1-SNAPSHOT-jar-with-dependencies.jar
+  
